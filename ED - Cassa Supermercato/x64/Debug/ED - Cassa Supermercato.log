@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Users\andre\OneDrive\Workspace\educational\c++ - cassa supermercato\ED - Cassa Supermercato\Main.cpp(74,28): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Workspace\educational\c++ - cassa supermercato\ED - Cassa Supermercato\Main.cpp(74,20): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+C:\Users\andre\OneDrive\Workspace\educational\c++ - cassa supermercato\ED - Cassa Supermercato\Main.cpp(82,11): warning C4552: '+': result of expression not used
+  ED - Cassa Supermercato.vcxproj -> C:\Users\andre\OneDrive\Workspace\educational\c++ - cassa supermercato\ED - Cassa Supermercato\x64\Debug\ED - Cassa Supermercato.exe
